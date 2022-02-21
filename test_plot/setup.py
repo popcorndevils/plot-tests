@@ -9,7 +9,7 @@ setup(
     author_email = "popcorndevils@gmail.com",
     license = "BSD 2-clause",
     packages = ["test_plot"],
-    install_requires = ["ipywidgets", "plotly", "ipython"],
+    install_requires = ["ipywidgets", "plotly", "ipython", "pandas"],
     classifiers = [
         'Development Status :: 1 - Planning',
         'Intended Audience :: Science/Research',
